@@ -69,8 +69,8 @@
 <div align="center">
   <h3>📊 GitHub Stats</h3>
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB_KAMU&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_GITHUB_KAMU&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Langs" />
+    <img src="https://github-readme-stats.vercel.app/api?username=ivanrizalahmadi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanrizalahmadi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Langs" />
   </p>
 </div>
 
