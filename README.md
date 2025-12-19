@@ -49,48 +49,6 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Ivan+Rizal+👋;Mobile+App+Developer+📱;Web+Developer+(Laravel)+💻;Quality+Assurance+Enthusiast+🛡️" alt="Typing SVG" />
-</div>
-
-<div align="center">
-  <h3>🚀 About Me</h3>
-  <p>
-    Saya adalah mahasiswa tingkat akhir dan <i>Software Engineer</i> yang memiliki ketertarikan kuat pada pengembangan aplikasi lintas platform. 
-    Memiliki keahlian spesifik dalam membangun aplikasi <b>Mobile (Flutter)</b> yang tangguh dan aplikasi <b>Web (Laravel & Native PHP)</b> yang efisien.
-  </p>
-  <p>
-    Saya menggabungkan kemampuan <i>Development</i> dengan pola pikir <i>Quality Assurance</i> (Automated E2E Testing) 
-    untuk menghasilkan perangkat lunak yang minim <i>bug</i> dan siap produksi.
-  </p>
-  <p>
-    🌱 Saat ini terbuka untuk kesempatan <i>Internship</i> atau <i>Full-time</i> sebagai Mobile Engineer & Web Developer.
-  </p>
-</div>
-
-<br/>
-
-<div align="center">
-  <h3>🛠️ Tech Stack & Tools</h3>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <br/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  <br/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
-  <br/>
-  <img src="https://img.shields.io/badge/Integration_Testing-Passed-success?style=for-the-badge&logo=flutter&logoColor=white" alt="Testing" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
-</div>
-
-<br/>
-
-<div align="center">
   <h3>🏆 Featured Projects</h3>
   <table border="0">
     <tr>
