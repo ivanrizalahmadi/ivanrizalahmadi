@@ -52,10 +52,10 @@
           <li><b>Highlight:</b> Implementasi 100% Automated E2E Testing (Admin & User flow).</li>
         </ul>
         <div align="center">
-           <a href="LINK_REPO_LABIFY_KAMU" target="_blank">
+           <a href="https://github.com/dinalailil/pbl_peminjamanalatlab" target="_blank">
              <img src="https://img.shields.io/badge/View_Code-black?style=flat&logo=github" alt="View Code"/>
            </a>
-           <a href="LINK_GDRIVE_APK_KAMU" target="_blank">
+           <a href="https://drive.google.com/file/d/1eM7Lr750CjFSPGxl3t4Oe35NzNMMGTxC/view?usp=sharing" target="_blank">
              <img src="https://img.shields.io/badge/Download_APK-green?style=flat&logo=android" alt="Download APK"/>
            </a>
         </div>
