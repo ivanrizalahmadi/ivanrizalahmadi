@@ -25,14 +25,21 @@
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   
+  <br/>
+
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
   
+  <br/>
+
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
+
+  <br/>
 
   <img src="https://img.shields.io/badge/Integration_Testing-Passed-success?style=for-the-badge&logo=flutter&logoColor=white" alt="Testing" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
@@ -43,65 +50,66 @@
 
 <div align="center">
   <h3>🏆 Featured Projects</h3>
-  <table width="100%">
+  <table border="0" width="100%">
     
     <tr>
-      <td width="60%">
+      <td width="65%">
         <h3 align="left">📱 LABIFY - Laboratory Inventory System</h3>
         <p>
-          Aplikasi manajemen peminjaman alat laboratorium berbasis mobile dengan fitur <i>role-based</i> (User & Admin).
-          Dilengkapi dengan validasi stok real-time dan sistem persetujuan otomatis.
+          Aplikasi manajemen peminjaman alat laboratorium berbasis mobile yang memisahkan hak akses antara Mahasiswa dan Admin. 
+          Menggunakan Firebase untuk pemantauan stok <i>real-time</i> dan status peminjaman.
         </p>
         <ul>
-          <li><b>Tech:</b> Flutter, Dart, Firebase (Firestore & Auth).</li>
-          <li><b>Highlight:</b> Implementasi 100% Automated E2E Testing untuk alur Admin & User.</li>
+          <li><b>Tech:</b> Flutter, Dart, Firebase (Auth & Firestore).</li>
+          <li><b>Highlight:</b> Implementasi 100% <i>Automated E2E Testing</i> untuk memvalidasi alur peminjaman User dan Approval Admin.</li>
         </ul>
-        <div align="left">
-           <a href="https://github.com/dinalailil/pbl_peminjamanalatlab" target="_blank">
-             <img src="https://img.shields.io/badge/View_Code-black?style=flat&logo=github" alt="View Code"/>
-           </a>
-           <a href="https://drive.google.com/file/d/1eM7Lr750CjFSPGxl3t4Oe35NzNMMGTxC/view?usp=sharing" target="_blank">
-             <img src="https://img.shields.io/badge/Download_APK-green?style=flat&logo=android" alt="Download APK"/>
-           </a>
-        </div>
+      </td>
+      <td width="35%" align="center">
+        <a href="https://github.com/dinalailil/pbl_peminjamanalatlab" target="_blank">
+          <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+        <br/><br/>
+        <a href="https://drive.google.com/file/d/1eM7Lr750CjFSPGxl3t4Oe35NzNMMGTxC/view?usp=sharing" target="_blank">
+          <img src="https://img.shields.io/badge/Download_APK-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+        </a>
       </td>
     </tr>
 
     <tr>
-      <td width="60%">
+      <td width="65%">
         <h3 align="left">💻 Sistem Pendaftaran TOEIC (Smart Access)</h3>
         <p>
-           Platform web untuk digitalisasi proses pendaftaran ujian TOEIC di lingkungan kampus. 
-           Menggantikan proses manual dengan fitur otomatisasi data peserta, validasi dokumen, dan distribusi jadwal ujian.
+           Platform web digitalisasi pendaftaran ujian TOEIC di lingkungan kampus. 
+           [cite_start]Menggantikan proses manual dengan fitur otomatisasi data peserta, validasi dokumen, dan distribusi jadwal ujian secara terpusat[cite: 1].
         </p>
         <ul>
           <li><b>Tech:</b> Laravel, PHP, MySQL, Bootstrap.</li>
-          <li><b>Highlight:</b> Import/Export Data Peserta (Excel), Generate Akun Otomatis, & Notifikasi Email.</li>
+          <li><b>Highlight:</b> Fitur Import/Export Data Peserta (Excel), Generate Akun Otomatis, & Notifikasi Email Validasi.</li>
         </ul>
-        <div align="left">
-           <a href="https://github.com/tasyasss/PBL4_TOEIC" target="_blank">
-             <img src="https://img.shields.io/badge/View_Code-black?style=flat&logo=github" alt="View Code"/>
-           </a>
-        </div>
+      </td>
+      <td width="35%" align="center">
+        <a href="https://github.com/tasyasss/PBL4_TOEIC" target="_blank">
+          <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
       </td>
     </tr>
 
     <tr>
-      <td width="60%">
+      <td width="65%">
         <h3 align="left">🌐 SIMASBETA - Academic Clearance System</h3>
         <p>
            Sistem Informasi Bebas Tanggungan untuk digitalisasi alur administrasi kelulusan mahasiswa. 
-           Dibangun menggunakan <b>Native PHP</b> untuk menangani logika validasi dokumen bertingkat antar unit (Perpus, Prodi, & Admin).
+           [cite_start]Dibangun menggunakan <b>Native PHP</b> untuk menangani logika validasi dokumen bertingkat antar unit (Perpus, Prodi, & Admin)[cite: 2].
         </p>
         <ul>
           <li><b>Tech:</b> Native PHP (MVC Concept), SQL Server, Bootstrap.</li>
-          <li><b>Highlight:</b> Validasi Berjenjang (Multi-level Verification) & Auto-generate Surat PDF.</li>
+          <li><b>Highlight:</b> Validasi Berjenjang (Multi-level Verification) & Auto-generate Surat Bebas Tanggungan (PDF).</li>
         </ul>
-        <div align="left">
-           <a href="https://github.com/rohmanalka/PBLTanggungan" target="_blank">
-             <img src="https://img.shields.io/badge/View_Code-black?style=flat&logo=github" alt="View Code"/>
-           </a>
-        </div>
+      </td>
+      <td width="35%" align="center">
+        <a href="https://github.com/rohmanalka/PBLTanggungan" target="_blank">
+          <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
       </td>
     </tr>
 
